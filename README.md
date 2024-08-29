@@ -1,4 +1,8 @@
-## Hi there 👋
+## developer / data engineer
+
+- 🔭 currently working on [aftafa](https://github.com/makualiyev/aftafa)
+- 🌱 currently learning algo/ds, database internals, SWE and data engineering best practices
+- 📫 How to reach me: 📞 t.me/makualiyev , 📧 maku.aliyev@gmail.com
 
 <!--
 **makualiyev/makualiyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
